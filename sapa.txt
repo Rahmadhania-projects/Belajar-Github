@@ -7,3 +7,4 @@ Bismillahirrahmannirrahim
 We ca, We want, keep fighting!
 
 Test commit versi squash and merge 1
+Test commit versi squash and merge 2
