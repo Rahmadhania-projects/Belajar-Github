@@ -13,5 +13,3 @@ Test commit versi squash and merge 3
 Ingat kamu harus berubah demi berhasil
 Pernyataan di atas sudah benar
 Jangan mudah lelah, karena ini adalah bagian dari proses
-
-test review 2
