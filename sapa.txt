@@ -10,4 +10,3 @@ Test commit versi squash and merge 1
 Test commit versi squash and merge 2
 Test commit versi squash and merge 3
 
-Ingat kamu berhasil demi berubah
