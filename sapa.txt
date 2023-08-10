@@ -1,3 +1,5 @@
 Hello World!
-Selamat Pagi Dunia
-Siap menjalani hari ini?
+
+Good Morning World!
+Ready for the day?
+
