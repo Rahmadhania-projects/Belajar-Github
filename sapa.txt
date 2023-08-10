@@ -5,3 +5,5 @@ Ready for the day?
 
 Bismillahirrahmannirrahim
 We ca, We want, keep fighting!
+
+Test commit versi squash and merge
